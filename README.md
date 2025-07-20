@@ -20,3 +20,7 @@ Mobile-friendly Kali Red Team setup:
 git clone https://github.com/Kydras8/Kali-RedTeam-Pack.git
 cd Kali-RedTeam-Pack
 bash install-kali-redteam.sh
+
+👑 Author
+
+Built by Kydras8 — "Nothing Is Off Limits"
