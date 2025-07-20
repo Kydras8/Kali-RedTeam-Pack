@@ -1,3 +1,22 @@
-Kydras Kali Red Team Setup
+# 🔥 Kydras Kali Red Team Pack
 
-Quick deploy Red Team rig with stealth tools, Tor routing, and VNC graphical desktop.
+![Last Commit](https://img.shields.io/github/last-commit/Kydras8/Kali-RedTeam-Pack?style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/Kydras8/Kali-RedTeam-Pack?style=flat-square)
+![License](https://img.shields.io/github/license/Kydras8/Kali-RedTeam-Pack?style=flat-square)
+
+Mobile-friendly Kali Red Team setup:
+✅ Red Team Tools  
+✅ Payloads + Phishing Kits  
+✅ OSINT Tools  
+✅ VNC XFCE Desktop  
+✅ Tor + Proxychains stealth routing  
+✅ Auto GitHub Push-Pull sync
+
+---
+
+## 🚀 Quickstart:
+
+```bash
+git clone https://github.com/Kydras8/Kali-RedTeam-Pack.git
+cd Kali-RedTeam-Pack
+bash install-kali-redteam.sh
