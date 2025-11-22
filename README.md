@@ -1,3 +1,11 @@
+<!-- Kydras Repo Header -->
+<p align="center">
+  <strong>Kydras Systems Inc.</strong><br/>
+  <em>Nothing is off limits.</em>
+</p>
+
+---
+
 # 🔥 Kydras Kali Red Team Pack
 
 ![Last Commit](https://img.shields.io/github/last-commit/Kydras8/Kali-RedTeam-Pack?style=flat-square)
@@ -24,3 +32,4 @@ bash install-kali-redteam.sh
 👑 Author
 
 Built by Kydras8 — "Nothing Is Off Limits"
+
